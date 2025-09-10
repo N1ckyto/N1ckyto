@@ -45,8 +45,8 @@
 ## Connect with me 
 
 <p align='left'>
-<a href="www.linkedin.com/in/nicolas-escudero-a20b6b357" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/linkedin%20rect.svg"></a>
+<a href="https://www.linkedin.com/in/nicolas-escudero-a20b6b357" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/linkedin%20rect.svg"></a>
 <a href="https://www.instagram.com/nickydj_ok/" target="_blank"><img height="25" src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/insta%20rect.svg"></a>
 <a href="https://wa.link/x4ghjj" target="_blank"><img height="25" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-<a href="mailto:escuderonico0@gmail.com" target="_blank"><img height="25" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=escuderonico0@gmail.com" target="_blank"><img height="25" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
