@@ -9,11 +9,11 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 
-<picture> <img align='right' src='https://github.com/UjwalKandi/UjwalKandi/blob/changes-to-readme/svg/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150"'></picture>
+<picture> <img align='right' src='https://github.com/UjwalKandi/UjwalKandi/blob/changes-to-readme/svg/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150'></picture>
 
-- :school: I am a `Junior` at [University Degree in Computer Application Development](https://www.unicen.edu.ar/content/tecnicatura-universitaria-en-desarrollo-de-aplicaciones-inform%C3%A1ticas-tudai) in [UNICEN](https://www.unicen.edu.ar/)
-- :trophy: `2022 MCM/ICM` Finalist
-- :technologist: **Currently working on** `Frontend Development` **&** `Data Science`
+- :school: I am a `Student` at [University Degree in Computer Application Development](https://www.unicen.edu.ar/content/tecnicatura-universitaria-en-desarrollo-de-aplicaciones-inform%C3%A1ticas-tudai) in [UNICEN](https://www.unicen.edu.ar/),  **currently studying since 2024**
+- :technologist: **Currently working on** `Frontend Development` **&** `Database`
+- 🧑🏻 I'm passionate about programming and web application development. I enjoy learning new languages ​​and skills, and I specialize in creating websites for clients. I'm currently available for part-time opportunities as I'm pursuing my university studies, which began in 2024 and are still ongoing. I'd love to gain more experience and collaborate with you. You can reach me on my social media and contact information to stay in touch and take your projects to the next level.
 <!--- :boom: You can visit [MY WEBSITE](https://eliochiu.github.io) for some frontend knowledge-->
 
 ## 🛠️ My Skills
